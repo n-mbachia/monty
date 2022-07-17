@@ -13,7 +13,7 @@
  *
  * Return: void
  */
-void phar(stack_t **stack, unsigned int line_cnt)
+void pchar(stack_t **stack, unsigned int line_cnt)
 {
 	if (!stack || !(*stack))
 	{
